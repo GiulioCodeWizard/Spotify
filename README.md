@@ -263,6 +263,11 @@ This optimization shows how indexing can drastically reduce query time, improvin
 
 ---
 
+## Author - Giulio Dajani
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
+
+---
+
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
 
